@@ -2,9 +2,7 @@
 
 A full-stack web application for renting products online — from gadgets to furniture — with secure authentication, smooth browsing, and hassle-free checkout.  
 
-![Tech](https://img.shields.io/badge/Stack-MERN-blueviolet?style=for-the-badge)  
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)  
+![Tech](https://img.shields.io/badge/Stack-MERN-blueviolet?style=for-the-badge) 
 
 ---
 
